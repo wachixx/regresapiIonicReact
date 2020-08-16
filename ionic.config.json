@@ -1,0 +1,7 @@
+{
+  "name": "mpowerTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
